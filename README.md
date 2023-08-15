@@ -4,7 +4,7 @@ I am currently working on person re-identification project
 
 ```python
 class developer(SWEngineer):
-    def __int__(self):
+    def __init__(self):
         super().__init__()
         self.name = 'Chae, Soo Min'
         self.interests = ['AI(Computer Vision)', 'Running']
