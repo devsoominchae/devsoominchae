@@ -1,4 +1,10 @@
-### Hi there 👋
+# Greetings!
+I continue to find answers to unsolved problems and develop problem solving skills.
+I am currently working on person re-identification project and a small Arduino project
+
+```python
+print('Hello!')
+```
 
 <!--
 **devsoominchae/devsoominchae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
