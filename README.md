@@ -9,6 +9,6 @@ class developer(SWEngineer):
         self.name = 'Chae, Soo Min'
         self.interests = ['AI(Computer Vision)', 'Running']
         self.language = 'Python'
-        self.framework = 'Pytorch'
+        self.framework = 'PyTorch'
         self.colab = ['Notion', 'Github']
 ```
