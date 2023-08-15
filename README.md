@@ -3,20 +3,12 @@ I continue to find answers to unsolved problems and develop problem solving skil
 I am currently working on person re-identification project
 
 ```python
-print('Hello!')
+class developer(SWEngineer):
+    def __int__(self):
+        super().__init__()
+        self.name = 'Chae, Soo Min'
+        self.interests = ['AI(Computer Vision)', 'Running']
+        self.language = 'Python'
+        self.famework = 'Pytorch'
+        self.colab = ['Notion', 'Github']
 ```
-
-<!--
-**devsoominchae/devsoominchae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
