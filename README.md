@@ -1,7 +1,4 @@
 # Greetings!
-I continue to find answers to unsolved problems and develop problem solving skills.
-I am currently working on person re-identification project
-
 ```python
 class developer(Engineer):
     def __init__(self):
